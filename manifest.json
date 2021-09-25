@@ -1,6 +1,6 @@
 {
-  "name": "Metaplex NFT Marketplace",
-  "short_name": "Metaplex NFT Marketplace",
+  "name": "CryptoNerds NFT Marketplace",
+  "short_name": "CryptoNerds NFT Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
